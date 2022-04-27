@@ -16,7 +16,7 @@ const Untitled1Copy1 = () => {
       position: "absolute",
       height: 60,
       width: 140,
-      backgroundColor: "#bf52e9",
+      backgroundColor: "#82d0fb",
       borderRadius: 0,
       color: "#777777",
       borderColor: "#632626",

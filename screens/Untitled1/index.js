@@ -13,7 +13,7 @@ const Untitled1 = () => {
       left: 31,
       top: 55,
       position: "absolute",
-      height: 60,
+      height: 110,
       width: 140,
       backgroundColor: "#bf52e9",
       borderRadius: 0,
