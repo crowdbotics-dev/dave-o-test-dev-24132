@@ -19,8 +19,8 @@ const Untitled1Copy1 = () => {
       backgroundColor: "#82d0fb",
       borderRadius: 0,
       color: "#777777",
-      borderColor: "#632626",
-      borderWidth: 2
+      borderColor: "#6c31eb",
+      borderWidth: 9
     }}></View><Text style={{
       left: 57,
       top: 220,
