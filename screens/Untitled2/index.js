@@ -1,3 +1,4 @@
+import { TextInput } from "react-native";
 import React from "react";
 import { View } from "react-native";
 
@@ -8,7 +9,15 @@ const Untitled2 = () => {
     position: 'relative',
     height: '100%'
   }}>
-      </View>;
+      <TextInput style={{
+      left: 21,
+      top: 101,
+      position: "absolute",
+      backgroundColor: "#ffffff",
+      borderColor: "#cccccc",
+      width: 150,
+      height: 30
+    }} placeholder="fd" multiline={true} editable={true}></TextInput></View>;
 };
 
 export default Untitled2;
