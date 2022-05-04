@@ -17,8 +17,8 @@ const Untitled1 = () => {
       marginLeft: "-10px",
       marginTop: "-10px"
     }}><View style={{
-        left: 54,
-        top: 96,
+        left: 52,
+        top: 76,
         position: "absolute",
         height: 89,
         width: 114,
