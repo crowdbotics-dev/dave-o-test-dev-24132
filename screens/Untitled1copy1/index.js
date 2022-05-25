@@ -1,3 +1,4 @@
+import { Pressable } from "react-native";
 import { ImageBackground } from "react-native";
 import { Text } from "react-native";
 import React from "react";
@@ -21,17 +22,23 @@ const Untitled1Copy1 = () => {
       color: "#777777",
       borderColor: "#6c31eb",
       borderWidth: 9
-    }}></View><Text style={{
-      left: 57,
-      top: 220,
-      position: "absolute",
-      width: 100,
-      height: 50,
-      lineHeight: 14,
-      fontSize: 14,
-      borderRadius: 0,
-      fontWeight: 700
-    }}>Lorem ipsum… </Text><ImageBackground style={{
+    }}></View><Pressable onPress={{}} style={{
+      position: "initial",
+      width: "195px",
+      height: "350px",
+      marginLeft: "-10px",
+      marginTop: "-10px"
+    }}><Text style={{
+        left: 57,
+        top: 220,
+        position: "absolute",
+        width: 100,
+        height: 50,
+        lineHeight: 14,
+        fontSize: 14,
+        borderRadius: 0,
+        fontWeight: 700
+      }}>Lorem ipsum… </Text></Pressable><ImageBackground style={{
       left: 47,
       top: 138,
       position: "absolute",
